@@ -1,0 +1,17 @@
+{
+  "name": "image-search",
+  "version": "0.1.0",
+  "description": "Image search abstraction layer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Clayton Hadaway <me@hadaclay.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "google-images": "^2.1.0",
+    "mongodb": "^2.2.25"
+  }
+}
